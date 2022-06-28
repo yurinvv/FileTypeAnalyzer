@@ -17,8 +17,8 @@ Patterns use a simple prioritization scheme. When finding several patterns in a 
 
 # Usage example
 
-java Main test_files patterns.db
-test_filesdoc_0.doc: MS Office Word 2003
-doc_1.ppt: MS Office PowerPoint 2003
-file.zip: Zip archive
+java Main test_files patterns.db  <br/>
+test_filesdoc_0.doc: MS Office Word 2003  <br/>
+doc_1.ppt: MS Office PowerPoint 2003  <br/>
+file.zip: Zip archive  <br/>
 

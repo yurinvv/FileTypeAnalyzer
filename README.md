@@ -22,3 +22,9 @@ test_filesdoc_0.doc: MS Office Word 2003  <br/>
 doc_1.ppt: MS Office PowerPoint 2003  <br/>
 file.zip: Zip archive  <br/>
 
+Or
+
+java -jar fileTypeAnalyzer.jar test_files patterns.db  <br/>
+test_filesdoc_0.doc: MS Office Word 2003  <br/>
+doc_1.ppt: MS Office PowerPoint 2003  <br/>
+file.zip: Zip archive  <br/>
